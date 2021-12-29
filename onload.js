@@ -4,7 +4,7 @@ function load() {
             alert("Страница загружена")
         }
     }
-    catch {
+    catch (err) {
         alert("ОЙ...")
     }
 }
