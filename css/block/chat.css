@@ -1,0 +1,14 @@
+.chat{
+    border: 1px solid purple;
+    width: 100%;
+}
+
+.chat__list{
+    overflow-y: scroll;
+    height: 80vh;
+    padding: 16px;
+}
+
+.chat__item{
+    margin-bottom: 4px;
+}

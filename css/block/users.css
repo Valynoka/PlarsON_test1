@@ -1,0 +1,17 @@
+.content__users{
+    margin-right: 2px;
+}
+.users{
+    width: 200px;
+    border: 1px solid orangered;
+}
+
+.users__list{
+    overflow-y: scroll;
+    height: 80vh;
+    padding: 4px;
+}
+
+.user__item{
+    margin-bottom: 4px;
+}
